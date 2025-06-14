@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="c*bHsJd$~=SbNX;V0cDH" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="^wJkJ+;`KKVe)3uQEF=A"><value name="text"><shadow type="text" id="do}Lr=5ahVTS6konXkQg"><field name="TEXT">TOTO</field></shadow></value></block></statement></block></xml>
